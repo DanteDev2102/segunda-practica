@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\segundo-taller.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Window.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\segundo-taller.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\segundo-taller.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\segundo-taller.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
